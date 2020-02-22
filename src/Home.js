@@ -12,7 +12,7 @@ class Home extends Component {
       render = () => {
           return (
           <div>
-              This is Home
+              This is Home1
         </div>);}
         }
         
