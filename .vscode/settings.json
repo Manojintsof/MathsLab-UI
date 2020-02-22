@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9254e352-515f-440d-a6e5-7a5c361dd56e/resourceGroups/MathsLab/providers/Microsoft.Web/sites/MathsLab",
+    "appService.deploySubpath": "",
+    "appService.showBuildDuringDeployPrompt": false
+}
